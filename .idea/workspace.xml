@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="427ec845-206a-4fa2-8c78-1e949a43b0a0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/firstnode.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/firstmodule.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/formidable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mailer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myNewFile.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myfirst.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/file.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/incoming_form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/json_parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/multipart_parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/octet_parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/querystring_parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/yarn.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/addressparser/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/base64/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/dkim/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/dkim/message-parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/dkim/relaxed-body.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/dkim/sign.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/fetch/cookies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/fetch/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/json-transport/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/mail-composer/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/mailer/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/mailer/mail-message.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/mime-funcs/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/mime-funcs/mime-types.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/mime-node/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/mime-node/last-newline.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/nodemailer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/qp/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/sendmail-transport/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/sendmail-transport/le-unix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/sendmail-transport/le-windows.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/ses-transport/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/shared/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/smtp-connection/data-stream.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/smtp-connection/http-proxy-client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/smtp-connection/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/smtp-pool/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/smtp-pool/pool-resource.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/smtp-transport/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/stream-transport/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/well-known/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/well-known/services.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/lib/xoauth2/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/nodemailer/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/upper-case/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/upper-case/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/upper-case/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/upper-case/upper-case.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/upper-case/upper-case.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/summer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/winter.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="myfirst.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myfirst.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="29" column="61" lean-forward="false" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mailer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mailer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formidable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formidable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/firstmodule.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/summer.html" />
+        <option value="$PROJECT_DIR$/winter.html" />
+        <option value="$PROJECT_DIR$/myfirst.js" />
+        <option value="$PROJECT_DIR$/formidable.js" />
+        <option value="$PROJECT_DIR$/mailer.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1008" />
+    <option name="y" value="102" />
+    <option name="width" value="732" />
+    <option name="height" value="950" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="firstnode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstnode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="427ec845-206a-4fa2-8c78-1e949a43b0a0" name="Default" comment="" />
+      <created>1541662963633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541662963633</updated>
+      <workItem from="1541662964953" duration="14194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3524763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5314917" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firstmodule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/winter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myNewFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfirst.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="61" lean-forward="false" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formidable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mailer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
